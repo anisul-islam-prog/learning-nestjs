@@ -21,6 +21,9 @@ $ yarn start:dev
 
 # production mode
 $ yarn start:prod
+
+# Database client
+$ npx prisma studio
 ```
 
 ## Test
